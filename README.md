@@ -1,2 +1,2 @@
-# Computaci-n-Distribuida
+# Computacion-Distribuida
 Proyecto JimenezA-clienteFTP
